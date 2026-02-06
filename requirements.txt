@@ -1,0 +1,10 @@
+pandas_datareader
+warnings
+numpy
+pandas
+sklearn.preprocessing
+sklearn.decomposition
+sklearn.model_selection
+sklearn.linear_model
+sklearn.metrics
+matplotlib.pyplot
